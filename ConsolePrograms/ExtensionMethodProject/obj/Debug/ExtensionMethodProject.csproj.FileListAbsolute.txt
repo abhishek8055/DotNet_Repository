@@ -1,0 +1,6 @@
+D:\dotnet\PROJECTS\ConsolePrograms\ExtensionMethodProject\bin\Debug\ExtensionMethodProject.pdb
+D:\dotnet\PROJECTS\ConsolePrograms\ExtensionMethodProject\obj\Debug\ExtensionMethodProject.csprojAssemblyReference.cache
+D:\dotnet\PROJECTS\ConsolePrograms\ExtensionMethodProject\obj\Debug\ExtensionMethodProject.csproj.CoreCompileInputs.cache
+D:\dotnet\PROJECTS\ConsolePrograms\ExtensionMethodProject\obj\Debug\ExtensionMethodProject.pdb
+D:\dotnet\PROJECTS\ConsolePrograms\ExtensionMethodProject\bin\Debug\ExtensionMethodProject.exe
+D:\dotnet\PROJECTS\ConsolePrograms\ExtensionMethodProject\obj\Debug\ExtensionMethodProject.exe

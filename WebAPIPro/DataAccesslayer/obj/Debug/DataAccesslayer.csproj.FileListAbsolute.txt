@@ -1,0 +1,12 @@
+D:\dotnet\WebAPIPro\DataAccesslayer\bin\Debug\DataAccesslayer.dll.config
+D:\dotnet\WebAPIPro\DataAccesslayer\bin\Debug\DataAccesslayer.dll
+D:\dotnet\WebAPIPro\DataAccesslayer\bin\Debug\DataAccesslayer.pdb
+D:\dotnet\WebAPIPro\DataAccesslayer\bin\Debug\EntityFramework.dll
+D:\dotnet\WebAPIPro\DataAccesslayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\dotnet\WebAPIPro\DataAccesslayer\bin\Debug\EntityFramework.xml
+D:\dotnet\WebAPIPro\DataAccesslayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\dotnet\WebAPIPro\DataAccesslayer\obj\Debug\DataAccesslayer.csproj.CoreCompileInputs.cache
+D:\dotnet\WebAPIPro\DataAccesslayer\obj\Debug\DataAccesslayer.csproj.CopyComplete
+D:\dotnet\WebAPIPro\DataAccesslayer\obj\Debug\DataAccesslayer.dll
+D:\dotnet\WebAPIPro\DataAccesslayer\obj\Debug\DataAccesslayer.pdb
+D:\dotnet\WebAPIPro\DataAccesslayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache

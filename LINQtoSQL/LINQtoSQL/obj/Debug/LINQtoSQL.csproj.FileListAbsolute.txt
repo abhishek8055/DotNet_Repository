@@ -1,0 +1,11 @@
+D:\dotnet\PROJECTS\LINQtoSQL\LINQtoSQL\bin\Debug\LINQtoSQL.exe.config
+D:\dotnet\PROJECTS\LINQtoSQL\LINQtoSQL\bin\Debug\LINQtoSQL.exe
+D:\dotnet\PROJECTS\LINQtoSQL\LINQtoSQL\bin\Debug\LINQtoSQL.pdb
+D:\dotnet\PROJECTS\LINQtoSQL\LINQtoSQL\obj\Debug\LINQtoSQL.csprojAssemblyReference.cache
+D:\dotnet\PROJECTS\LINQtoSQL\LINQtoSQL\obj\Debug\LINQtoSQL.Form1.resources
+D:\dotnet\PROJECTS\LINQtoSQL\LINQtoSQL\obj\Debug\LINQtoSQL.Properties.Resources.resources
+D:\dotnet\PROJECTS\LINQtoSQL\LINQtoSQL\obj\Debug\LINQtoSQL.csproj.GenerateResource.cache
+D:\dotnet\PROJECTS\LINQtoSQL\LINQtoSQL\obj\Debug\LINQtoSQL.csproj.CoreCompileInputs.cache
+D:\dotnet\PROJECTS\LINQtoSQL\LINQtoSQL\obj\Debug\LINQtoSQL.exe
+D:\dotnet\PROJECTS\LINQtoSQL\LINQtoSQL\obj\Debug\LINQtoSQL.pdb
+D:\dotnet\PROJECTS\LINQtoSQL\LINQtoSQL\obj\Debug\LINQtoSQL.Form2.resources

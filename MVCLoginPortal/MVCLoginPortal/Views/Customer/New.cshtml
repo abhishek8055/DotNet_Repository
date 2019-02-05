@@ -1,0 +1,39 @@
+﻿@model MVCLoginPortal.ViewModel.NewCustomerViewModel
+
+@{
+    /**/
+
+    ViewBag.Title = "New";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@Model.Title</h2>
+
+@using (Html.BeginForm("Save", "Customer"))
+{
+    <div class="form-group">
+        @Html.LabelFor(model => model.Customer.Name)
+        @Html.TextBoxFor(model => model.Customer.Name, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.Customer.Name)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Customer.DateofBirth)
+        @Html.TextBoxFor(model => model.Customer.DateofBirth, "{0: d MMM yyyy}", new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.Customer.DateofBirth)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Customer.MembershipTypeId)
+        @Html.DropDownListFor(model => model.Customer.MembershipTypeId, new SelectList(Model.MembershipTypes, "Id", "Name"), "select Membership", new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.Customer.MembershipTypeId)
+    </div>
+
+    <div class="checkbox">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@Html.CheckBoxFor(model => model.Customer.IsSubscribedToNewsletter) Is Subscribed to NewsLetter?
+    </div>
+    @Html.HiddenFor(m => m.Customer.Id)
+    @Html.AntiForgeryToken()
+    <button class="btn btn-success">Save</button>
+}
+   

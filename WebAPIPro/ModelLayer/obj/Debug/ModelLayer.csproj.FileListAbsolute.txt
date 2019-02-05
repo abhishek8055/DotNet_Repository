@@ -1,0 +1,6 @@
+D:\dotnet\WebAPIPro\ModelLayer\bin\Debug\ModelLayer.dll
+D:\dotnet\WebAPIPro\ModelLayer\bin\Debug\ModelLayer.pdb
+D:\dotnet\WebAPIPro\ModelLayer\obj\Debug\ModelLayer.csproj.CoreCompileInputs.cache
+D:\dotnet\WebAPIPro\ModelLayer\obj\Debug\ModelLayer.dll
+D:\dotnet\WebAPIPro\ModelLayer\obj\Debug\ModelLayer.pdb
+D:\dotnet\WebAPIPro\ModelLayer\obj\Debug\ModelLayer.csprojAssemblyReference.cache

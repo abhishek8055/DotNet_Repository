@@ -1,0 +1,10 @@
+D:\dotnet\SampleADO\CustomerRegistration\bin\Debug\CustomerRegistration.exe.config
+D:\dotnet\SampleADO\CustomerRegistration\bin\Debug\CustomerRegistration.exe
+D:\dotnet\SampleADO\CustomerRegistration\bin\Debug\CustomerRegistration.pdb
+D:\dotnet\SampleADO\CustomerRegistration\obj\Debug\CustomerRegistration.RegistrationForm.resources
+D:\dotnet\SampleADO\CustomerRegistration\obj\Debug\CustomerRegistration.Properties.Resources.resources
+D:\dotnet\SampleADO\CustomerRegistration\obj\Debug\CustomerRegistration.csproj.GenerateResource.Cache
+D:\dotnet\SampleADO\CustomerRegistration\obj\Debug\CustomerRegistration.exe
+D:\dotnet\SampleADO\CustomerRegistration\obj\Debug\CustomerRegistration.pdb
+D:\dotnet\SampleADO\CustomerRegistration\obj\Debug\CustomerRegistration.csprojAssemblyReference.cache
+D:\dotnet\SampleADO\CustomerRegistration\obj\Debug\CustomerRegistration.csproj.CoreCompileInputs.cache

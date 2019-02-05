@@ -1,0 +1,11 @@
+D:\dotnet\SampleADO\Deligates\bin\Debug\netcoreapp1.1\Deligates.deps.json
+D:\dotnet\SampleADO\Deligates\bin\Debug\netcoreapp1.1\Deligates.runtimeconfig.json
+D:\dotnet\SampleADO\Deligates\bin\Debug\netcoreapp1.1\Deligates.runtimeconfig.dev.json
+D:\dotnet\SampleADO\Deligates\obj\Debug\netcoreapp1.1\Deligates.AssemblyInfo.cs
+D:\dotnet\SampleADO\Deligates\bin\Debug\netcoreapp1.1\Deligates.dll
+D:\dotnet\SampleADO\Deligates\bin\Debug\netcoreapp1.1\Deligates.pdb
+D:\dotnet\SampleADO\Deligates\obj\Debug\netcoreapp1.1\Deligates.dll
+D:\dotnet\SampleADO\Deligates\obj\Debug\netcoreapp1.1\Deligates.pdb
+D:\dotnet\SampleADO\Deligates\obj\Debug\netcoreapp1.1\Deligates.csprojAssemblyReference.cache
+D:\dotnet\SampleADO\Deligates\obj\Debug\netcoreapp1.1\Deligates.csproj.CoreCompileInputs.cache
+D:\dotnet\SampleADO\Deligates\obj\Debug\netcoreapp1.1\Deligates.AssemblyInfoInputs.cache

@@ -1,0 +1,7 @@
+D:\dotnet\SampleADO\LINQtoXML\bin\Debug\LINQtoXML.exe.config
+D:\dotnet\SampleADO\LINQtoXML\bin\Debug\LINQtoXML.exe
+D:\dotnet\SampleADO\LINQtoXML\bin\Debug\LINQtoXML.pdb
+D:\dotnet\SampleADO\LINQtoXML\obj\Debug\LINQtoXML.csprojAssemblyReference.cache
+D:\dotnet\SampleADO\LINQtoXML\obj\Debug\LINQtoXML.csproj.CoreCompileInputs.cache
+D:\dotnet\SampleADO\LINQtoXML\obj\Debug\LINQtoXML.exe
+D:\dotnet\SampleADO\LINQtoXML\obj\Debug\LINQtoXML.pdb

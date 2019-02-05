@@ -1,0 +1,7 @@
+D:\dotnet\PROJECTS\ConsolePrograms\InheritanceDemo\bin\Debug\InheritanceDemo.exe.config
+D:\dotnet\PROJECTS\ConsolePrograms\InheritanceDemo\bin\Debug\InheritanceDemo.exe
+D:\dotnet\PROJECTS\ConsolePrograms\InheritanceDemo\bin\Debug\InheritanceDemo.pdb
+D:\dotnet\PROJECTS\ConsolePrograms\InheritanceDemo\obj\Debug\InheritanceDemo.csprojAssemblyReference.cache
+D:\dotnet\PROJECTS\ConsolePrograms\InheritanceDemo\obj\Debug\InheritanceDemo.csproj.CoreCompileInputs.cache
+D:\dotnet\PROJECTS\ConsolePrograms\InheritanceDemo\obj\Debug\InheritanceDemo.exe
+D:\dotnet\PROJECTS\ConsolePrograms\InheritanceDemo\obj\Debug\InheritanceDemo.pdb

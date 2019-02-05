@@ -1,0 +1,10 @@
+D:\dotnet\SampleADO\SampleADO\obj\Debug\ADOConnection.EstablishConnection.resources
+D:\dotnet\SampleADO\SampleADO\obj\Debug\SampleADO.Properties.Resources.resources
+D:\dotnet\SampleADO\SampleADO\obj\Debug\ADOConnection.csproj.GenerateResource.Cache
+D:\dotnet\SampleADO\SampleADO\bin\Debug\SampleADO.exe.config
+D:\dotnet\SampleADO\SampleADO\bin\Debug\SampleADO.exe
+D:\dotnet\SampleADO\SampleADO\bin\Debug\SampleADO.pdb
+D:\dotnet\SampleADO\SampleADO\obj\Debug\SampleADO.exe
+D:\dotnet\SampleADO\SampleADO\obj\Debug\SampleADO.pdb
+D:\dotnet\SampleADO\SampleADO\obj\Debug\ADOConnection.csprojAssemblyReference.cache
+D:\dotnet\SampleADO\SampleADO\obj\Debug\ADOConnection.csproj.CoreCompileInputs.cache

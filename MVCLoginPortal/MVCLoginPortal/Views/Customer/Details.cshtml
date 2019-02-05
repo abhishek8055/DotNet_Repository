@@ -1,0 +1,13 @@
+﻿@model MVCLoginPortal.Models.Customer
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Customer Details</h2>
+<h3>Name: @Model.Name</h3>
+<h3>Date of Birth: @Model.DateofBirth</h3>
+<h3>Membership Type: @Model.MembershipType.Name</h3>
+
+

@@ -1,0 +1,6 @@
+D:\dotnet\PROJECTS\ConsolePrograms\Delegates\bin\Debug\Delegates.pdb
+D:\dotnet\PROJECTS\ConsolePrograms\Delegates\obj\Debug\Delegates.csprojAssemblyReference.cache
+D:\dotnet\PROJECTS\ConsolePrograms\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+D:\dotnet\PROJECTS\ConsolePrograms\Delegates\obj\Debug\Delegates.pdb
+D:\dotnet\PROJECTS\ConsolePrograms\Delegates\bin\Debug\Delegates.exe
+D:\dotnet\PROJECTS\ConsolePrograms\Delegates\obj\Debug\Delegates.exe

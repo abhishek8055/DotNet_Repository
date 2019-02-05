@@ -1,0 +1,6 @@
+D:\dotnet\SampleADO\ReadXML\bin\Debug\ReadXML.exe.config
+D:\dotnet\SampleADO\ReadXML\bin\Debug\ReadXML.exe
+D:\dotnet\SampleADO\ReadXML\bin\Debug\ReadXML.pdb
+D:\dotnet\SampleADO\ReadXML\obj\Debug\ReadXML.csproj.CoreCompileInputs.cache
+D:\dotnet\SampleADO\ReadXML\obj\Debug\ReadXML.exe
+D:\dotnet\SampleADO\ReadXML\obj\Debug\ReadXML.pdb
